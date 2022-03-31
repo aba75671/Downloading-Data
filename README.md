@@ -3,7 +3,6 @@
 ---
 
 ### Table of Contents
-You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
 - [Technologies](#technologies)
@@ -12,7 +11,7 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-Observing structure of data in both CSV and JSON files. Extracting desired data followed by visualization of formatted plot
+Observing structure of data in both CSV and JSON files. Extracting desired data to create a formatted plot.
 
 #### Technologies
 
